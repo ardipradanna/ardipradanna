@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ardipradanna
-- 👀 I’m interested in coding (im beginner, dunno to what to do)
+- 👀 I’m interested to learn html,css and java (im beginner)
 - 🌱 I’m currently learning html
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me pradanaardi754@gmail.com
